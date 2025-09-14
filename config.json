@@ -79,6 +79,43 @@
     "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
+    },
+        "qgtaohua": {
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "name": "桃花资源采集"
+    },
+    "qgaosika": {
+      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+      "name": "奥斯卡资源站"
+    },
+    "qgsenlin": {
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "name": "森林资源"
+    },
+    "qgnaixiangxiang": {
+      "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+      "name": "奶香香资源站"
+    },
+    "qgshayu": {
+      "api": "https://shayuzy5.com/api.php/provide/vod/",
+      "name": "鲨鱼资源"
+    },
+    "qgfanhao": {
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list",
+      "name": "番号资源站"
+    },
+    "qgjkun": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "JKUN资源站"
+    },
+    "qgdidi": {
+      "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+      "name": "滴滴资源站"
+    },
+    "qghaiwaikan": {
+      "name": "海外看资源",
+      "api": "https://haiwaikan.com/api.php/provide/vod/"
     }
   }
+
 }
